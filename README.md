@@ -60,7 +60,7 @@ improving my web development skills. Every day I want to learn something new and
 <img align="left" alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" />
 <img align="left" alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
 <img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
-
+<img align="left" alt="php" title="php" width="45" hspace="5" src="./images/php_icon_icon.svg" />
 <br />
 <br />
 <br />
@@ -92,7 +92,6 @@ improving my web development skills. Every day I want to learn something new and
 -   MS Powerpoint
 -   Adobe Photoshop
     <!-- other skills and my videos for computer science section ends here  -->
-
     <br/>
 
 <!-- github stats starts here  -->
@@ -102,7 +101,6 @@ improving my web development skills. Every day I want to learn something new and
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharif-Minhaz&show_icons=true)
-
 <br/>
 
 <!-- github stats ends here  -->
@@ -117,8 +115,6 @@ improving my web development skills. Every day I want to learn something new and
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
 | Web Designer | CoreLab IT                                    | May 2020- Running   | Mathbaria, Pirojpur   |
 | Research Assistant  | CoreLab IT                          | May 2020 - May 2021 | Mathbaria, Pirojpur   |
-
-
 <br />
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
@@ -134,7 +130,6 @@ improving my web development skills. Every day I want to learn something new and
 3. S.S.C  
     K.M Latif Institution  
    Mathbaria, Pirojpur.
-
 <br />
 
 <!-- education section ends here  -->
@@ -146,7 +141,7 @@ improving my web development skills. Every day I want to learn something new and
 -   🇧🇩 Bangla : Native
 -   🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
 -   🇮🇳 Hindi : Intermediate
-    <br />
+<br />
 
 <!-- my languages section ends here  -->
 
@@ -157,17 +152,14 @@ improving my web development skills. Every day I want to learn something new and
 -   🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Gaming
 -  💻 Web Designing, 🎥 Watching Movies
 -   🏊‍♂️ Swimming, 🚶‍♂️ Walking, 
-
 <br />
 <!-- my sports and games section ends here  -->
-
 <!-- Honors & awards section starts here  -->
 
 ### 🏆 Honors & Awards :
 
 -   Nothing Yet
-<br />
-<br />
+
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sharif-Minhaz.visitor-badge&left_color=gray&right_color=blue)
