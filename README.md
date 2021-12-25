@@ -136,7 +136,7 @@ improving my web development skills. Every day I want to learn something new and
 
 <!-- my languages section starts here  -->
 
-### Languages:
+### 💬 &nbsp; Languages:
 
 -   🇧🇩 Bangla : Native
 -   🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
@@ -147,7 +147,7 @@ improving my web development skills. Every day I want to learn something new and
 
 <!-- my sports and game section starts here  -->
 
-### Sports / Game / Activities / Hobby:
+### 🎯 &nbsp; Sports / Game / Activities / Hobby:
 
 -   🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Gaming
 -  💻 Web Designing, 🎥 Watching Movies
