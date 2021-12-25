@@ -48,26 +48,28 @@ improving my web development skills. Every day I want to learn something new and
 
 #### Key Skills on Web development:
 
-<img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />
-<img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />
-<img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/Bootstrap_logo.svg" />
-<img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/js.svg" />
-<img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json-o.svg" />
-<img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" />
-<img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" />
-<img align="left" alt="react" title="react" width="45" hspace="5" src="./images/react.svg" />
-<img align="left" alt="node and express" title="node and express" width="45" hspace="5" src="./images/node.svg" />
-<img align="left" alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" />
-<img align="left" alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
-<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
-<img align="left" alt="php" title="php" width="45" hspace="5" src="./images/php_icon_icon.svg" />
-<br />
-<br />
-<br />
+<div>
+    <img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />
+    <img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />
+    <img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/Bootstrap_logo.svg" />
+    <img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/js.svg" />
+    <img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json-o.svg" />
+    <img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" />
+    <img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" />
+    <img align="left" alt="react" title="react" width="45" hspace="5" src="./images/react.svg" />
+    <img align="left" alt="node and express" title="node and express" width="45" hspace="5" src="./images/node.svg" />
+    <img align="left" alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" />
+    <img align="left" alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
+    <img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
+    <img align="left" alt="php" title="php" width="45" hspace="5" src="./images/php_icon_icon.svg" />
+    <br>
+</div>
+
 <br />
 
+
 <!-- web related skills section ends here  -->
-<!-- other skills and my videos for computer science section starts here  -->
+<!-- other skills for computer science section starts here  -->
 
 #### Other Skills:
 
@@ -97,8 +99,6 @@ improving my web development skills. Every day I want to learn something new and
 <!-- github stats starts here  -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharif-Minhaz)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharif-Minhaz&show_icons=true)
 <br/>
