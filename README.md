@@ -19,7 +19,7 @@ A skill developer & web developer
 
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/google-round.svg" />][website]
 [<img align="left" alt="youtube" title="youtube" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
+[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook_f_logo_(2019).svg.png" />][facebook]
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 [<img align="left" alt="linkedin" title="instagram" width="45" hspace="5" src="./images/instagram-round-color.svg" />][instagram]
 <br />
@@ -65,7 +65,6 @@ improving my web development skills. Every day I want to learn something new and
 <br />
 <br />
 <br />
-<br />
 
 <!-- web related skills section ends here  -->
 <!-- other skills and my videos for computer science section starts here  -->
@@ -76,7 +75,6 @@ improving my web development skills. Every day I want to learn something new and
 <img align="left" alt="c plus plus" title="c++" width="45" hspace="5" src="./images/cplus.svg" />
 <img align="left" alt="java" title="java" width="45" hspace="5" src="./images/java.svg" />
 <img align="left" alt="python" title="python" width="45" hspace="5" src="./images/python.svg" />
-
 <br/>
 <br/>
 <br/>
@@ -172,7 +170,7 @@ improving my web development skills. Every day I want to learn something new and
 <br />
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=gray&right_color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Sharif-Minhaz.visitor-badge&left_color=gray&right_color=blue)
 
 ---
 
