@@ -13,7 +13,7 @@ A skill developer & web developer
 📧 &emsp;How to reach me: sharifmdminhazurrahman@gmail.com.<br/>
 🤩 &emsp;Favorite Stack: MERN (MongoDB, Express, React, Node.js). <br/>
 ⚡ &emsp;Fun fact: I never quit with the fear of loose, at leas I try so that people can never call me a quitter.
-<br/><br/>
+<br/>
 
 <!-- Contact me section starts here  -->
 
@@ -39,7 +39,6 @@ After completing my Bsc. in Software Engineering I want to spending much time
 improving my web development skills. Every day I want to learn something new and share my knowledge with others.
 </p>
 
-<br />
 <!-- about-me section ends here  -->
 
 <!-- web related skills section starts here  -->
@@ -48,7 +47,7 @@ improving my web development skills. Every day I want to learn something new and
 
 #### Key Skills on Web development:
 
-<div>
+<p>
     <img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />
     <img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />
     <img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/Bootstrap_logo.svg" />
@@ -60,8 +59,8 @@ improving my web development skills. Every day I want to learn something new and
     <img align="left" alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" />
     <img align="left" alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
     <img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
-    <p style="opacity: 0;">.</p>
-</div>
+    <p style="font-size: 0;">.</p>
+</p>
 <br />
 <br />
 <br />
