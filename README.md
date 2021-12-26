@@ -48,20 +48,20 @@ improving my web development skills. Every day I want to learn something new and
 
 #### Key Skills on Web development:
 
-<p>
-    <img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />
-    <img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />
-    <img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap-round.png"  />
-    <img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" />
-    <img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass-svg.png" />
-    <img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" />
-    <img align="left" alt="react" title="react" width="45" hspace="5" src="./images/react.svg" />
-    <img align="left" alt="node and express" title="node and express" width="45" hspace="5" src="./images/node.svg" />
-    <img align="left" alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" />
-    <img align="left" alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
-    <img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
-    <p style="font-size: 0;">.</p>
-</p>
+<img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />
+<img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />
+<img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap-round.png"  />
+<img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass-svg.png" />
+<img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" />
+<img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" />
+<img align="left" alt="react" title="react" width="45" hspace="5" src="./images/react.svg" />
+<img align="left" alt="node" title="node" width="45" hspace="5" src="./images/node.svg" />
+<img align="left" alt="express" title="express" width="45" hspace="5" src="./images/express.png" />
+<img align="left" alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" />
+<img align="left"alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" />
+<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
+<img align="left" alt="git" title="git" width="45" hspace="5" src="./images/git.png" />
+<img align="left" alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
 <br />
 <br />
 <br />
@@ -75,9 +75,8 @@ improving my web development skills. Every day I want to learn something new and
 <img align="left" alt="c" title="c" width="45" hspace="5" src="./images/c.svg" />
 <img align="left" alt="c plus plus" title="c++" width="45" hspace="5" src="./images/cplus.svg" />
 <img align="left" alt="java" title="java" width="45" hspace="5" src="./images/java.svg" />
-<img align="left" alt="php" title="php" width="45" hspace="5" src="./images/json.svg" />
-<img align="left" alt="express" title="express" width="45" hspace="5" src="./images/express.png" />
-<img align="left" alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" />
+<img align="left" alt="photoshop" title="photoshop" width="45" hspace="5" src="./images/ps.svg" />
+<img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json.svg" />
 <br />
 <br />
 <br />
