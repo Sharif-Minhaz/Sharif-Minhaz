@@ -53,7 +53,6 @@ improving my web development skills. Every day I want to learn something new and
     <img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />
     <img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/Bootstrap_logo.svg" />
     <img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/js.svg" />
-    <img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json-o.svg" />
     <img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" />
     <img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" />
     <img align="left" alt="react" title="react" width="45" hspace="5" src="./images/react.svg" />
@@ -61,10 +60,9 @@ improving my web development skills. Every day I want to learn something new and
     <img align="left" alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" />
     <img align="left" alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
     <img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
-    <img align="left" alt="php" title="php" width="45" hspace="5" src="./images/php_icon_icon.svg" />
-    <br>
+    <p style="opacity: 0;">0</p>
 </div>
-
+<br
 <br />
 
 
@@ -76,7 +74,8 @@ improving my web development skills. Every day I want to learn something new and
 <img align="left" alt="c" title="c" width="45" hspace="5" src="./images/c.svg" />
 <img align="left" alt="c plus plus" title="c++" width="45" hspace="5" src="./images/cplus.svg" />
 <img align="left" alt="java" title="java" width="45" hspace="5" src="./images/java.svg" />
-<img align="left" alt="python" title="python" width="45" hspace="5" src="./images/python.svg" />
+<img align="left" alt="php" title="php" width="45" hspace="5" src="./images/json.svg" />
+<img align="left" alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" />
 <br/>
 <br/>
 <br/>
