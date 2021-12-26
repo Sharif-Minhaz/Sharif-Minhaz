@@ -12,7 +12,7 @@ A skill developer & web developer
 🤔 &emsp;I’m looking for people who can enlighten me with amazing programming knowledge.<br/>
 📧 &emsp;How to reach me: sharifmdminhazurrahman@gmail.com.<br/>
 🤩 &emsp;Favorite Stack: MERN (MongoDB, Express, React, Node). <br/>
-⚡ &emsp;Fun fact: I never quit with the fear of loose, at leas I try so that people can never call me a quitter.
+⚡ &emsp;Fun fact: I never quit with the fear of loose, at least I try so that people can never call me a quitter.
 <br />
 <br />
 
@@ -59,13 +59,12 @@ improving my web development skills. Every day I want to learn something new and
 <img align="left" alt="express" title="express" width="45" hspace="5" src="./images/express.png" />
 <img align="left" alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" />
 <img align="left"alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" />
-<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
 <img align="left" alt="git" title="git" width="45" hspace="5" src="./images/git.png" />
+<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
 <img align="left" alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
 <br />
 <br />
 <br />
-
 
 <!-- web related skills section ends here  -->
 <!-- other skills for computer science section starts here  -->
