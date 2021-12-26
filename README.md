@@ -77,9 +77,10 @@ improving my web development skills. Every day I want to learn something new and
 <img align="left" alt="java" title="java" width="45" hspace="5" src="./images/java.svg" />
 <img align="left" alt="php" title="php" width="45" hspace="5" src="./images/json.svg" />
 <img align="left" alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" />
-<br/>
-<br/>
-<br/>
+<br />
+<br />
+<br />
+<br />
 
 -   MERN Stack
 -   Database System
@@ -115,7 +116,6 @@ improving my web development skills. Every day I want to learn something new and
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
 | Web Designer | CoreLab IT                                    | May 2020- Running   | Mathbaria, Pirojpur   |
 | Research Assistant  | CoreLab IT                          | May 2020 - May 2021 | Mathbaria, Pirojpur   |
-<br />
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
 
@@ -130,18 +130,16 @@ improving my web development skills. Every day I want to learn something new and
 3. S.S.C  
     K.M Latif Institution  
    Mathbaria, Pirojpur.
-<br />
 
 <!-- education section ends here  -->
 
 <!-- my languages section starts here  -->
-
 ### 💬 &nbsp; Languages:
 
 -   🇧🇩 Bangla : Native
 -   🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
 -   🇮🇳 Hindi : Intermediate
-<br />
+
 
 <!-- my languages section ends here  -->
 
@@ -152,7 +150,6 @@ improving my web development skills. Every day I want to learn something new and
 -   🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Gaming
 -  💻 Web Designing, 🎥 Watching Movies
 -   🏊‍♂️ Swimming, 🚶‍♂️ Walking, 
-<br />
 <!-- my sports and games section ends here  -->
 <!-- Honors & awards section starts here  -->
 
