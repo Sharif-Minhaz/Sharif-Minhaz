@@ -58,7 +58,7 @@ improving my web development skills. Every day I want to learn something new and
 <img alt="node" title="node" width="45" hspace="5" src="./images/node.svg" />
 <img alt="express" title="express" width="45" hspace="5" src="./images/express.png" />
 <img alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" />
-<imgalt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" />
+<img alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" />
 <img alt="git" title="git" width="45" hspace="5" src="./images/git.png" />
 <img alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
 <img alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
