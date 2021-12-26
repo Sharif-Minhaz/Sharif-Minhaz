@@ -60,9 +60,10 @@ improving my web development skills. Every day I want to learn something new and
     <img align="left" alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" />
     <img align="left" alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
     <img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
-    <p style="opacity: 0;">0</p>
+    <p style="opacity: 0;">.</p>
 </div>
-<br
+<br />
+<br />
 <br />
 
 
