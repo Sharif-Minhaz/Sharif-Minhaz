@@ -1,5 +1,5 @@
 <!-- banner image starts here  -->
-<img src="./images/banner.png" width="100%">
+<img src="./images/myBanner.png" width="100%">
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I'm Sharif Md. Minhazur Rahman Rabbi </h1>
