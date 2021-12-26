@@ -11,9 +11,10 @@ A skill developer & web developer
 💻 &emsp;Most used line of code `console.log("Hello World")` <br/>
 🤔 &emsp;I’m looking for people who can enlighten me with amazing programming knowledge.<br/>
 📧 &emsp;How to reach me: sharifmdminhazurrahman@gmail.com.<br/>
-🤩 &emsp;Favorite Stack: MERN (MongoDB, Express, React, Node.js). <br/>
+🤩 &emsp;Favorite Stack: MERN (MongoDB, Express, React, Node). <br/>
 ⚡ &emsp;Fun fact: I never quit with the fear of loose, at leas I try so that people can never call me a quitter.
-<br/>
+<br />
+<br />
 
 <!-- Contact me section starts here  -->
 
@@ -50,9 +51,9 @@ improving my web development skills. Every day I want to learn something new and
 <p>
     <img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />
     <img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />
-    <img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/Bootstrap_logo.svg" />
-    <img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/js.svg" />
-    <img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" />
+    <img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap-round.png"  />
+    <img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" />
+    <img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass-svg.png" />
     <img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" />
     <img align="left" alt="react" title="react" width="45" hspace="5" src="./images/react.svg" />
     <img align="left" alt="node and express" title="node and express" width="45" hspace="5" src="./images/node.svg" />
@@ -75,6 +76,7 @@ improving my web development skills. Every day I want to learn something new and
 <img align="left" alt="c plus plus" title="c++" width="45" hspace="5" src="./images/cplus.svg" />
 <img align="left" alt="java" title="java" width="45" hspace="5" src="./images/java.svg" />
 <img align="left" alt="php" title="php" width="45" hspace="5" src="./images/json.svg" />
+<img align="left" alt="express" title="express" width="45" hspace="5" src="./images/express.png" />
 <img align="left" alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" />
 <br />
 <br />
@@ -96,6 +98,18 @@ improving my web development skills. Every day I want to learn something new and
     <!-- other skills and my videos for computer science section ends here  -->
     <br/>
 
+### 💻 &nbsp;IDE & Code-Editors I Use:
+
+<img align="left" alt="vs-code" title="visual studio code" width="45" hspace="5" src="./images/Visual_Studio_Code.png" />
+<img align="left" alt="notepad++" title="notepad++" width="65" hspace="5" src="./images/notepadpp.png" />
+<img align="left" alt="code-block" title="code-blocks" width="45" hspace="5" src="./images/code_blocks.png" />
+<img align="left" alt="netbeans" title="netbeans" width="45" hspace="5" src="./images/netbeans-ide-logo.png" />
+<img align="left" alt="sql-server" title="sql-server" width="45" hspace="5" src="./images/sql-server.png" />
+<img align="left" alt="notepad" title="notepad" width="45" hspace="5" src="./images/notepad.png" />
+<br />
+<br />
+<br />
+<br />
 <!-- github stats starts here  -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharif-Minhaz)](https://github.com/anuraghazra/github-readme-stats)
@@ -143,7 +157,7 @@ improving my web development skills. Every day I want to learn something new and
 <!-- my languages section ends here  -->
 
 <!-- my sports and game section starts here  -->
-
+---
 ### 🎯 &nbsp; Sports / Game / Activities / Hobby:
 
 -   🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Gaming
