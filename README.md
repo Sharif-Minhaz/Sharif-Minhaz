@@ -51,7 +51,6 @@ improving my web development skills. Every day I want to learn something new and
 <img alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" /><img alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" /><img alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap-round.png"  /><img alt="sass" title="sass" width="45" hspace="5" src="./images/sass-svg.png" /><img alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" /><img alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" /><img alt="react" title="react" width="45" hspace="5" src="./images/react.svg" /><img alt="node" title="node" width="45" hspace="5" src="./images/node.svg" /><img alt="express" title="express" width="45" hspace="5" src="./images/express.png" /><img alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" /><img alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" /><img alt="git" title="git" width="45" hspace="5" src="./images/git.png" /><img alt="github" title="github" width="45" hspace="5" src="./images/github.svg" /><img alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
 <br />
 <br />
-<br />
 
 | <a href="https://github.com/Sharif-Minhaz/Sharif-Minhaz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharif-Minhaz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Minhaz's github stats" /></a> | <a href="https://github.com/Sharif-Minhaz/Sharif-Minhaz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharif-Minhaz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -96,16 +95,6 @@ improving my web development skills. Every day I want to learn something new and
 <img align="left" alt="notepad" title="notepad" width="45" hspace="5" src="./images/notepad.png" />
 <br />
 <br />
-<br />
-<br />
-<!-- github stats starts here  -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharif-Minhaz)](https://github.com/anuraghazra/github-readme-stats)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharif-Minhaz&show_icons=true)
-<br/>
-
-<!-- github stats ends here  -->
 
 <!-- other skills and my videos for computer science section starts here  -->
 
