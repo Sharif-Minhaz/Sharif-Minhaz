@@ -97,6 +97,7 @@ improving my web development skills. Every day I want to learn something new and
 <img align="left" alt="notepad" title="notepad" width="45" hspace="5" src="./images/notepad.png" />
 <br />
 <br />
+<br />
 
 <!-- other skills and my videos for computer science section starts here  -->
 
