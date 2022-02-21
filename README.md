@@ -55,7 +55,7 @@ improving my web development skills. Every day I want to learn something new and
 | <a href="https://github.com/Sharif-Minhaz/Sharif-Minhaz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharif-Minhaz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Minhaz's github stats" /></a> | <a href="https://github.com/Sharif-Minhaz/Sharif-Minhaz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharif-Minhaz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <br />
-<br />
+
 <!-- web related skills section ends here  -->
 <!-- other skills for computer science section starts here  -->
 
@@ -84,7 +84,8 @@ improving my web development skills. Every day I want to learn something new and
 -   MS Powerpoint
 -   Adobe Photoshop
     <!-- other skills and my videos for computer science section ends here  -->
-    <br/>
+<br />
+<br />
 
 ### 💻 &nbsp;IDE & Code-Editors I Use:
 
