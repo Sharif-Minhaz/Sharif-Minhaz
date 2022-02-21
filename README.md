@@ -85,7 +85,6 @@ improving my web development skills. Every day I want to learn something new and
 -   Adobe Photoshop
     <!-- other skills and my videos for computer science section ends here  -->
 <br />
-<br />
 
 ### 💻 &nbsp;IDE & Code-Editors I Use:
 
