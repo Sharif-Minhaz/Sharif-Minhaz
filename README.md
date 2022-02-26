@@ -12,7 +12,7 @@ A skill developer & web developer
 🤔 &emsp;I’m looking for people who can enlighten me with amazing programming knowledge.<br/>
 📧 &emsp;How to reach me: sharifmdminhazurrahman@gmail.com.<br/>
 🤩 &emsp;Favorite Stack: MERN (MongoDB, Express, React, Node). <br/>
-⚡ &emsp;Fun fact: I never quit with the fear of loose, at least I try so that people can never call me a quitter.
+⚡ &emsp;Fun fact: I never quit with the fear of loose, I looses with trying.
 <br />
 <br />
 
@@ -76,7 +76,6 @@ improving my web development skills. Every day I want to learn something new and
 -   Object Oriented Programming
 -   Java Swing
 -   Discrete Math
--   Compiler
 -   Operating System
 -   Learn for skill
 -   MS Word
