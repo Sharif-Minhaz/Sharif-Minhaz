@@ -15,7 +15,6 @@ A skill developer & web developer
 ⚡ &emsp;Fun fact: I never quit with the fear of loose, I looses with trying.
 <br />
 <br />
-
 <!-- Contact me section starts here  -->
 
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/google-round.svg" />][website]
