@@ -44,7 +44,7 @@ improving my web development skills. Every day I want to learn something new and
 <!-- web related skills section starts here  -->
 
 ### 👨🏽‍💻 &nbsp; My Skills:
-
+<!-- Key skill here on web development  -->
 #### Key Skills on Web development:
 
 <img alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" /><img alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" /><img alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap-round.png"  /><img alt="sass" title="sass" width="45" hspace="5" src="./images/sass-svg.png" /><img alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" /><img alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" /><img alt="react" title="react" width="45" hspace="5" src="./images/react.svg" /><img alt="node" title="node" width="45" hspace="5" src="./images/node.svg" /><img alt="express" title="express" width="45" hspace="5" src="./images/express.png" /><img alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" /><img alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" /><img alt="git" title="git" width="45" hspace="5" src="./images/git.png" /><img alt="github" title="github" width="45" hspace="5" src="./images/github.svg" /><img alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
@@ -158,7 +158,7 @@ All rights reserved by Sharif Minhaz @2021
 
 ---
 
-<!-- my achievement section ends here  -->
+<!-- my award section ends here  -->
 [website]: https://sites.google.com/diu.edu.bd/sharifminhazswebsite/home
 [youtube]: https://www.youtube.com/channel/UCvv-mFVNuB5lWOevv2Q9XWA
 [facebook]: https://web.facebook.com/sharif.mdminhaz
