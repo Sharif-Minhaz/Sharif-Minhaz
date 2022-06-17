@@ -148,9 +148,9 @@ improving my web development skills. Every day I want to learn something new and
 <!-- my sports and games section ends here  -->
 <!-- Honors & awards section starts here  -->
 
-### 🏆 Honors & Awards :
+<!-- ### 🏆 Honors & Awards :
 
--   Nothing Yet
+-   Nothing Yet -->
 
 #### Profile Visits
 
