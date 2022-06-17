@@ -159,7 +159,7 @@ improving my web development skills. Every day I want to learn something new and
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by Sharif Minhaz @2021
+All rights reserved by Sharif Minhaz @2021-2022
 
 ---
 
