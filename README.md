@@ -96,6 +96,7 @@ improving my web development skills. Every day I want to learn something new and
 <img align="left" alt="netbeans" title="netbeans" width="45" hspace="5" src="./images/netbeans-ide-logo.png" />
 <img align="left" alt="sql-server" title="sql-server" width="45" hspace="5" src="./images/sql-server.png" />
 <img align="left" alt="notepad" title="notepad" width="45" hspace="5" src="./images/notepad.png" />
+<img align="left" alt="IntelliJ_IDEA" title="IntelliJ IDEA" width="45" hspace="5" src="./images/IntelliJ_IDEA_Icon.png" />
 <br />
 <br />
 <br />
