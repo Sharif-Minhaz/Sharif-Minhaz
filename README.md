@@ -105,12 +105,12 @@ improving my web development skills. Every day I want to learn something new and
 
 <!-- work experience section starts here  -->
 
-### 💼 &nbsp; Employment History
+<!---### 💼 &nbsp; Employment History
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
 | Web Designer | CoreLab IT                                    | May 2020- Running   | Mathbaria, Pirojpur   |
-| Research Assistant  | CoreLab IT                          | May 2020 - May 2021 | Mathbaria, Pirojpur   |
+| Research Assistant  | CoreLab IT                          | May 2020 - May 2021 | Mathbaria, Pirojpur   | --->
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
 
