@@ -12,7 +12,7 @@ A skill developer & web developer
 🤔 &emsp;I’m looking for people who can enlighten me with amazing programming knowledge.<br/>
 📧 &emsp;How to reach me: sharifmdminhazurrahman@gmail.com.<br/>
 🤩 &emsp;Favorite Stack: MERN (MongoDB, Express, React, Node). <br/>
-⚡ &emsp;Fun fact: I never quit with the fear of loose, I looses with trying.
+⚡ &emsp;Fun fact: I never quit with the fear of lose, I looses with trying.
 <br />
 <br />
 <!-- Contact me section starts here  -->
