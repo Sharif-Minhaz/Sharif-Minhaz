@@ -100,7 +100,7 @@ improving my web development skills. Every day I want to learn something new and
 <br />
 <br />
 <br />
-
+<p>note: more toos to come.</p>
 <!-- other skills and my videos for computer science section starts here  -->
 
 <!-- work experience section starts here  -->
@@ -113,7 +113,7 @@ improving my web development skills. Every day I want to learn something new and
 | Research Assistant  | CoreLab IT                          | May 2020 - May 2021 | Mathbaria, Pirojpur   | --->
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
-
+<br />
 ### 👨🏻‍🎓 &nbsp; Education
 
 1. B.Sc. in Software Engineering (running)  
