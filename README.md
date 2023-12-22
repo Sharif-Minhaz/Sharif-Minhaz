@@ -35,8 +35,7 @@ A skilled developer & web developer
 <p align="justify">
 I am a passionate SWE student. I have been learning programming languages, web development, and computer science-related subjects
 to chase my dream for 3 years now.
-After completing my BSc. I want to spend much time
-improving my web development skills in Software Engineering. Every day I want to learn something new and share my knowledge with others.
+After completing my BSc, I want to improve my web development skills in Software Engineering. Every day I want to learn something new and share my knowledge with others.
 </p>
 
 <!-- about-me section ends here  -->
@@ -54,10 +53,10 @@ improving my web development skills in Software Engineering. Every day I want to
 | <a href="https://github.com/Sharif-Minhaz/Sharif-Minhaz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharif-Minhaz&show_icons=true&theme=buefy&hide_border=true" alt="Minhaz's github stats" /></a> | <a href="https://github.com/Sharif-Minhaz/Sharif-Minhaz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharif-Minhaz&layout=compact&langs_count=8&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <br />
-<!-- github profile trophy -->
+<!-- GitHub profile trophy -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharif-minhaz" alt="sharif-minhaz" /></a> </p>
 <br />
-<!-- github streak-->
+<!-- GitHub streak-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharif-minhaz&" alt="sharif-minhaz" /></p>
 <!-- web-related skills section ends here  -->
 <!-- other skills for computer science section starts here  -->
@@ -69,7 +68,7 @@ improving my web development skills in Software Engineering. Every day I want to
 <img align="left" alt="java" title="java" width="45" hspace="5" src="./images/java.svg" />
 <img align="left" alt="photoshop" title="photoshop" width="45" hspace="5" src="./images/ps.svg" />
 <img align="left" alt="figma" title="figma" width="45" hspace="5" src="./images/figma-file.png" />
-<img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json.svg" />
+<img align="left" alt="JSON" title="JSON" width="45" hspace="5" src="./images/json.svg" />
 <br />
 <br />
 <br />
