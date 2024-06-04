@@ -148,10 +148,11 @@ After completing my BSc, I want to improve my web development skills in Software
 -   🏊‍♂️ Swimming, 🚶‍♂️ Walking, 
 <!-- my sports and games section ends here  -->
 <!-- Honors & awards section starts here  -->
+<br/>
 
-<!-- ### 🏆 Honors & Awards :
-
--   Nothing Yet -->
+### 🏆 Honors & Awards :
+<br/>
+<img src="./images/nasa-space-app-2023.jpg" width="250" />
 
 #### Profile Visits
 
