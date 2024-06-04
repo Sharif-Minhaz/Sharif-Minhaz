@@ -72,14 +72,12 @@ After completing my BSc, I want to improve my web development skills in Software
 <br />
 <br />
 <br />
-<br />
 
 -   Figma to UI
 -   PSD to UI
 -   Database System
 -   Object Oriented Programming
 -   Java Swing
--   Discrete Math
 -   Operating System
 -   Learn for skill
 -   MS Word
@@ -139,13 +137,20 @@ After completing my BSc, I want to improve my web development skills in Software
 
 <!-- my languages section ends here  -->
 
+---
+
+<!-- my problem-solving section starts here  -->
+### 🧠&nbsp; Problem-solving on LeetCode:
+![](https://leetcard.jacoblin.cool/user8365Lq?ext=activity)
+<!-- my problem-solving section ends here  -->
+
 <!-- my sports and game section starts here  -->
 ---
 ### 🎯 &nbsp; Sports / Game / Activities / Hobby:
 
--   🏏 Cricket, 🏸 Badminton, ♟️ Chess, 🎮 Gaming
+-   🏏 Cricket, ♟️ Chess, 🎮 Gaming
 -  💻 Web Designing, 🎥 Watching Movies
--   🏊‍♂️ Swimming, 🚶‍♂️ Walking, 
+-   🏊‍♂️ Swimming, 🚶‍♂️ Walking
 <!-- my sports and games section ends here  -->
 <!-- Honors & awards section starts here  -->
 <br/>
@@ -156,12 +161,12 @@ After completing my BSc, I want to improve my web development skills in Software
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Sharif-Minhaz.visitor-badge&left_color=gray&right_color=blue)
+<img src="https://profile-counter.glitch.me/Sharif-Minhaz/count.svg?"  />
 
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by Sharif Minhaz @2021-2022
+All rights reserved by Sharif Minhaz @2021-2024
 
 ---
 
