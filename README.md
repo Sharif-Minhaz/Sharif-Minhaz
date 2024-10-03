@@ -17,15 +17,21 @@ A skilled developer & web developer
 <br />
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/google-round.svg" />][website]
-[<img align="left" alt="youtube" title="youtube" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook_f_logo_(2019).svg.png" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
-[<img align="left" alt="linkedin" title="instagram" width="45" hspace="5" src="./images/instagram-round-color.svg" />][instagram]
+<div style="width: 100%; display: flex; gap: 15px; flex-wrap: wrap; background: red">
+   <a href="https://dev-sharif-md-minhaz.netlify.app">
+      <img alt="website" hspace="5" title="website" width="45" src="./images/google-round.svg" />
+   </a>
+   <a href="https://web.facebook.com/sharif.mdminhaz">
+      <img alt="facebook" hspace="5" title="facebook" width="45" src="./images/facebook_f_logo_(2019).svg.png" />
+   </a>
+   <a href="https://www.linkedin.com/in/minhaz-rabbi-614724205" style="text-decoration: none">
+      <img alt="linkedin" hspace="5" title="linkedin" width="45" src="./images/linkedin.svg" />
+   </a>
+   <a href="https://www.instagram.com/sharifminhaz540">
+      <img alt="linkedin" hspace="5" title="instagram" width="45" src="./images/instagram-round-color.svg" />
+   </a>
+</div>
 <br />
-<br />
-<br />
-
 <!-- Contact me section ends here  -->
 
 <!-- about-me section starts here  -->
@@ -46,9 +52,10 @@ After completing my BSc, I want to improve my web development skills in Software
 <!-- Key skill here on web development  -->
 #### Key Skills in Web Development:
 
-<img alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" /><img alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" /><img alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap-round.png"  /><img alt="sass" title="sass" width="45" hspace="5" src="./images/sass-svg.png" /><img alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" /><img alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" /><img alt="react" title="react" width="45" hspace="5" src="./images/react.svg" /><img alt="node" title="node" width="45" hspace="5" src="./images/node.svg" /><img alt="express" title="express" width="45" hspace="5" src="./images/express.png" /><img alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" /><img alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" /><img alt="git" title="git" width="45" hspace="5" src="./images/git.png" /><img alt="github" title="github" width="45" hspace="5" src="./images/github.svg" /><img alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
+<div><img alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" /><img alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" /><img alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap-round.png"  /><img alt="sass" title="sass" width="45" hspace="5" src="./images/sass-svg.png" /><img alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" /><img alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" /><img alt="react" title="react" width="45" hspace="5" src="./images/react.svg" /><img alt="node" title="node" width="45" hspace="5" src="./images/node.svg" /><img alt="express" title="express" width="45" hspace="5" src="./images/express.png" /><img alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" /><img alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" /><img alt="git" title="git" width="45" hspace="5" src="./images/git.png" /><img alt="github" title="github" width="45" hspace="5" src="./images/github.svg" /><img alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" /></div>
 <br />
 <br />
+
 <!-- about my work -->
 | <a href="https://github.com/Sharif-Minhaz/Sharif-Minhaz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharif-Minhaz&show_icons=true&theme=buefy&hide_border=true" alt="Minhaz's github stats" /></a> | <a href="https://github.com/Sharif-Minhaz/Sharif-Minhaz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharif-Minhaz&layout=compact&langs_count=8&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -63,14 +70,14 @@ After completing my BSc, I want to improve my web development skills in Software
 
 #### Other Skills:
 
-<img align="left" alt="c" title="c" width="45" hspace="5" src="./images/c.svg" />
-<img align="left" alt="c plus plus" title="c++" width="45" hspace="5" src="./images/cplus.svg" />
-<img align="left" alt="java" title="java" width="45" hspace="5" src="./images/java.svg" />
-<img align="left" alt="photoshop" title="photoshop" width="45" hspace="5" src="./images/ps.svg" />
-<img align="left" alt="figma" title="figma" width="45" hspace="5" src="./images/figma-file.png" />
-<img align="left" alt="JSON" title="JSON" width="45" hspace="5" src="./images/json.svg" />
-<br />
-<br />
+<div>
+    <img alt="c" title="c" width="45" hspace="5" src="./images/c.svg" />
+    <img alt="c plus plus" title="c++" width="45" hspace="5" src="./images/cplus.svg" />
+    <img alt="java" title="java" width="45" hspace="5" src="./images/java.svg" />
+    <img alt="photoshop" title="photoshop" width="45" hspace="5" src="./images/ps.svg" />
+    <img alt="figma" title="figma" width="45" hspace="5" src="./images/figma-file.png" />
+    <img alt="JSON" title="JSON" width="45" hspace="5" src="./images/json.svg" />
+</div>
 <br />
 
 -   Figma to UI
@@ -87,16 +94,16 @@ After completing my BSc, I want to improve my web development skills in Software
 
 ### 💻 &nbsp;IDE & Code-Editors I Use:
 
-<img align="left" alt="vs-code" title="visual studio code" width="45" hspace="5" src="./images/Visual_Studio_Code.png" />
-<img align="left" alt="notepad++" title="notepad++" width="65" hspace="5" src="./images/notepadpp.png" />
-<img align="left" alt="code-block" title="code-blocks" width="45" hspace="5" src="./images/code_blocks.png" />
-<img align="left" alt="netbeans" title="netbeans" width="45" hspace="5" src="./images/netbeans-ide-logo.png" />
-<img align="left" alt="sql-server" title="sql-server" width="45" hspace="5" src="./images/sql-server.png" />
-<img align="left" alt="notepad" title="notepad" width="45" hspace="5" src="./images/notepad.png" />
-<img align="left" alt="py-charm" title="py-charm" width="45" hspace="5" src="./images/py-charm.png" />
-<img align="left" alt="IntelliJ_IDEA" title="IntelliJ IDEA" width="45" hspace="5" src="./images/IntelliJ_IDEA_Icon.png" />
-<br />
-<br />
+<div>
+    <img alt="vs-code" title="visual studio code" width="45" hspace="5" src="./images/Visual_Studio_Code.png" />
+    <img alt="notepad++" title="notepad++" width="65" hspace="5" src="./images/notepadpp.png" />
+    <img alt="code-block" title="code-blocks" width="45" hspace="5" src="./images/code_blocks.png" />
+    <img alt="netbeans" title="netbeans" width="45" hspace="5" src="./images/netbeans-ide-logo.png" />
+    <img alt="sql-server" title="sql-server" width="45" hspace="5" src="./images/sql-server.png" />
+    <img alt="notepad" title="notepad" width="45" hspace="5" src="./images/notepad.png" />
+    <img alt="py-charm" title="py-charm" width="45" hspace="5" src="./images/py-charm.png" />
+    <img alt="IntelliJ_IDEA" title="IntelliJ IDEA" width="45" hspace="5" src="./images/IntelliJ_IDEA_Icon.png" />
+</div>
 <br />
 <p>note: more tools to come.</p>
 <!-- other skills and my videos for the computer science section start here  -->
@@ -157,7 +164,10 @@ After completing my BSc, I want to improve my web development skills in Software
 
 ### 🏆 Honors & Awards :
 <br/>
-<img src="./images/nasa-space-app-2023.jpg" width="250" />
+<img src="./images/nasa-space-app-2023.jpg" width="300" />
+NASA Space App Challenge 2023 Champion <br />
+Project: Titan Settlers <br />
+Region: Barisal, Team: The Titans
 
 #### Profile Visits
 
@@ -169,11 +179,4 @@ Thanks for going through my Portfolio.
 All rights reserved by Sharif Minhaz @2021-2024
 
 ---
-
-<!-- my award section ends here  -->
-[website]: https://sites.google.com/diu.edu.bd/sharifminhazswebsite/home
-[youtube]: https://www.youtube.com/channel/UCvv-mFVNuB5lWOevv2Q9XWA
-[facebook]: https://web.facebook.com/sharif.mdminhaz
-[linkedin]: https://www.linkedin.com/in/minhaz-rabbi-614724205/
-[instagram]: https://www.instagram.com/sharifminhaz540/
 [github]: https://github.com/Sharif-Minhaz
