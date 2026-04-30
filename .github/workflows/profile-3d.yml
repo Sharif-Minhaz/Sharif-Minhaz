@@ -18,11 +18,12 @@ jobs:
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                   USERNAME: Sharif-Minhaz
+                  SETTING_JSON: .github/profile-3d-settings.json
             - name: Commit & Push
               run: |
                   git config user.name github-actions
                   git config user.email github-actions@github.com
                   git add -A .
-                  if git commit -m "generated"; then
+                  if git commit -m "style:generate 3D contrib image"; then
                     git push
                   fi
