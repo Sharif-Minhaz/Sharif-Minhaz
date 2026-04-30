@@ -66,7 +66,7 @@ Always exploring new technologies and sharing what I learn along the way.
 <!-- profile-3d-contrib -->
 <p align="center" >
 	<picture>
-	  <source srcset="https://raw.githubusercontent.com/Sharif-Minhaz/Sharif-Minhaz/output-3d-contrib/day.svg" />
+	  <source srcset="https://raw.githubusercontent.com/Sharif-Minhaz/Sharif-Minhaz/output-3d-contrib/profile-season-animate.svg" />
 	</picture>
 </p>
 
@@ -140,14 +140,14 @@ Always exploring new technologies and sharing what I learn along the way.
 
 ### 👨🏻‍🎓 &nbsp; Education
 
-1. B.Sc. in Software Engineering (2020-2024)  
+1. B.Sc. in Software Engineering (2020-2024) <br /> 
    Daffodil International University  
    Dhanmondi, Dhaka.
-2. H.S.C (2017-2019)
-   Residential Laboratory College
+2. H.S.C (2017-2019)<br /> 
+   Residential Laboratory College<br /> 
    Khilkhet, Dhaka.
-3. S.S.C (2016-2017)
-   K.M Latif Institution
+3. S.S.C (2016-2017)<br /> 
+   K.M Latif Institution<br /> 
    Mathbaria, Pirojpur.
 
 <!-- education section ends here  -->
