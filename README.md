@@ -63,6 +63,13 @@ Always exploring new technologies and sharing what I learn along the way.
 <br />
 <br />
 
+<!-- profile-3d-contrib -->
+<p align="center" >
+	<picture>
+	  <source srcset="https://raw.githubusercontent.com/Sharif-Minhaz/Sharif-Minhaz/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
 <!-- about my work -->
 
 | <a href="https://github.com/Sharif-Minhaz/Sharif-Minhaz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharif-Minhaz&show_icons=true&theme=buefy&hide_border=true" alt="Minhaz's github stats" /></a> | <a href="https://github.com/Sharif-Minhaz/Sharif-Minhaz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharif-Minhaz&layout=compact&langs_count=8&theme=buefy&hide_border=true" /></a> |
@@ -171,9 +178,9 @@ Always exploring new technologies and sharing what I learn along the way.
 - 🏏 Cricket, ♟️ Chess, 🎮 Gaming
 - 🌐 API Designing, 🎥 Watching Movies
 - 🏊‍♂️ Swimming, 🚶‍♂️ Walking
-  <!-- my sports and games section ends here  -->
-  <!-- Honors & awards section starts here  -->
-  <br/>
+    <!-- my sports and games section ends here  -->
+    <!-- Honors & awards section starts here  -->
+    <br/>
 
 ### 🏆 Honors & Awards :
 
