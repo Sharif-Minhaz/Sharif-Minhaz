@@ -59,15 +59,12 @@ Always exploring new technologies and sharing what I learn along the way.
 
 #### Key Skills in Web Development:
 
-<div><img alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" /><img alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" /><img alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap-round.png"  /><img alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" /><img alt="tailwindcss" title="tailwindcss" width="45" hspace="5" src="./images/tailwind.webp" /><img alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" /><img alt="react" title="react" width="45" hspace="5" src="./images/react.svg" /><img alt="node" title="node" width="45" hspace="5" src="./images/node.svg" /><img alt="express" title="express" width="45" hspace="5" src="./images/express.webp" /><img alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" /><img alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" /><img alt="sql" title="sql" width="45" hspace="5" src="./images/sql.webp" /><img alt="electronjs" title="sql" width="45" hspace="5" src="./images/electron.webp" /><img alt="hono" title="hono" width="45" hspace="5" src="./images/hono.webp" /><img alt="awa" title="aws" width="45" hspace="5" src="./images/aws.webp" /><img alt="nestjs" title="nestjs" width="45" hspace="5" src="./images/nestjs.webp" /></div>
-<br />
+<div><img alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" /><img alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" /><img alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" /><img alt="tailwindcss" title="tailwindcss" width="45" hspace="5" src="./images/tailwind.webp" /><img alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" /><img alt="react" title="react" width="45" hspace="5" src="./images/react.svg" /><img alt="node" title="node" width="45" hspace="5" src="./images/node.svg" /><img alt="express" title="express" width="45" hspace="5" src="./images/express.webp" /><img alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" /><img alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" /><img alt="sql" title="sql" width="45" hspace="5" src="./images/sql.webp" /><img alt="electronjs" title="sql" width="45" hspace="5" src="./images/electron.webp" /><img alt="hono" title="hono" width="45" hspace="5" src="./images/hono.webp" /><img alt="awa" title="aws" width="45" hspace="5" src="./images/aws.webp" /><img alt="nestjs" title="nestjs" width="45" hspace="5" src="./images/nestjs.webp" /></div>
 <br />
 
 <!-- profile-3d-contrib -->
 <p align="center" >
-	<picture>
-	  <source srcset="https://raw.githubusercontent.com/Sharif-Minhaz/Sharif-Minhaz/output-3d-contrib/day.svg" />
-	</picture>
+	  <img src="https://raw.githubusercontent.com/Sharif-Minhaz/Sharif-Minhaz/main/profile-3d-contrib/profile-season-animate.svg" />
 </p>
 
 <!-- about my work -->
@@ -178,9 +175,9 @@ Always exploring new technologies and sharing what I learn along the way.
 - 🏏 Cricket, ♟️ Chess, 🎮 Gaming
 - 🌐 API Designing, 🎥 Watching Movies
 - 🏊‍♂️ Swimming, 🚶‍♂️ Walking
-    <!-- my sports and games section ends here  -->
-    <!-- Honors & awards section starts here  -->
-    <br/>
+  <!-- my sports and games section ends here  -->
+  <!-- Honors & awards section starts here  -->
+  <br/>
 
 ### 🏆 Honors & Awards :
 
