@@ -6,14 +6,14 @@
 
 A skilled web developer & passionate learner.
 
-🏠 &nbsp; Living: Mathbaria, Pirojpur <br/>
-💖 &emsp;I enjoy programming and sharing knowledge <br/>
-💻 &emsp;Most used line of code `console.log("Hello World")` <br/>
-🤔 &emsp;I’m looking for people who can enlighten me with the amazing programming knowledge.<br/>
-📧 &emsp;How to reach me: smmr.career@gmail.com.<br/>
-🤩 &emsp;Favorite Stack: MERN (MongoDB, Express, React, Node). <br/>
-🌐 &emsp;Favorite Cloud Platform: AWS. <br/>
-⚡ &emsp;Fun fact: I don’t quit scared—I lose trying.
+🏠&nbsp;Living: Mathbaria, Pirojpur <br/>
+💖&nbsp;I enjoy programming and sharing knowledge <br/>
+💻&nbsp;Most used line of code `console.log("Hello World")` <br/>
+🤔&nbsp;I’m looking for people who can enlighten me with the amazing programming knowledge.<br/>
+📧&nbsp;How to reach me: smmr.career@gmail.com.<br/>
+🤩&nbsp;Favorite Stack: MERN (MongoDB, Express, React, Node). <br/>
+🌐&nbsp;Favorite Cloud Platform: AWS. <br/>
+⚡&nbsp;Fun fact: I don’t quit scared—I lose trying.
 <br />
 <br />
 
@@ -126,10 +126,10 @@ Always exploring new technologies and sharing what I learn along the way.
 
 ### 💼 &nbsp; Employment History
 
-| Position              | Institute                    | Duration                  | Location       |
-| --------------------- | ---------------------------- | ------------------------- | -------------- |
-| Jr. Software Engineer | Right Brain Solution Ltd.    | November 2024 - (current) | Uttara, Dhaka  |
-| Full Stack Developer  | International Affairs at DIU | July - December, 2023     | Ashulia, Savar |
+| Position                          | Institute                    | Duration                  | Location       |
+| --------------------------------- | ---------------------------- | ------------------------- | -------------- |
+| Jr. Software Engineer             | Right Brain Solution Ltd.    | November 2024 - (current) | Uttara, Dhaka  |
+| Full Stack Developer (Internship) | International Affairs at DIU | July - December, 2023     | Ashulia, Savar |
 
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
@@ -175,9 +175,9 @@ Always exploring new technologies and sharing what I learn along the way.
 - 🏏 Cricket, ♟️ Chess, 🎮 Gaming
 - 🌐 API Designing, 🎥 Watching Movies
 - 🏊‍♂️ Swimming, 🚶‍♂️ Walking
-    <!-- my sports and games section ends here  -->
-    <!-- Honors & awards section starts here  -->
-    <br/>
+      <!-- my sports and games section ends here  -->
+      <!-- Honors & awards section starts here  -->
+      <br/>
 
 ### 🏆 Honors & Awards :
 
