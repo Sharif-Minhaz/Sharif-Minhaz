@@ -5,13 +5,14 @@
 <h1> 👋 Hello, I'm Sharif Md. Minhazur Rahman Rabbi </h1>
 
 A skilled web developer & passionate learner.
-🏠 &nbsp; Living: Mathbaria, Pirojpur
 
+🏠 &nbsp; Living: Mathbaria, Pirojpur
 💖 &emsp;I enjoy programming and sharing knowledge <br/>
 💻 &emsp;Most used line of code `console.log("Hello World")` <br/>
 🤔 &emsp;I’m looking for people who can enlighten me with the amazing programming knowledge.<br/>
 📧 &emsp;How to reach me: smmr.career@gmail.com.<br/>
 🤩 &emsp;Favorite Stack: MERN (MongoDB, Express, React, Node). <br/>
+🌐 &emsp;Favorite Cloud Platform: AWS. <br/>
 ⚡ &emsp;Fun fact: I don’t quit scared—I lose trying.
 <br />
 <br />
@@ -55,7 +56,7 @@ Always exploring new technologies and sharing what I learn along the way.
 
 #### Key Skills in Web Development:
 
-<div><img alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" /><img alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" /><img alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap-round.png"  /><img alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" /><img alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" /><img alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" /><img alt="react" title="react" width="45" hspace="5" src="./images/react.svg" /><img alt="node" title="node" width="45" hspace="5" src="./images/node.svg" /><img alt="express" title="express" width="45" hspace="5" src="./images/express.png" /><img alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" /><img alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" /><img alt="git" title="git" width="45" hspace="5" src="./images/git.png" /><img alt="github" title="github" width="45" hspace="5" src="./images/github.svg" /><img alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" /></div>
+<div><img alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" /><img alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" /><img alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap-round.png"  /><img alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" /><img alt="tailwindcss" title="tailwindcss" width="45" hspace="5" src="./images/tailwind.webp" /><img alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" /><img alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" /><img alt="react" title="react" width="45" hspace="5" src="./images/react.svg" /><img alt="node" title="node" width="45" hspace="5" src="./images/node.svg" /><img alt="express" title="express" width="45" hspace="5" src="./images/express.webp" /><img alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" /><img alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" /><img alt="git" title="git" width="45" hspace="5" src="./images/git.png" /><img alt="github" title="github" width="45" hspace="5" src="./images/github.svg" /><img alt="sql" title="sql" width="45" hspace="5" src="./images/sql.webp" /><img alt="electronjs" title="sql" width="45" hspace="5" src="./images/electron.webp" /><img alt="hono" title="hono" width="45" hspace="5" src="./images/hono.webp" /><img alt="awa" title="aws" width="45" hspace="5" src="./images/aws.webp" /></div>
 <br />
 <br />
 
@@ -87,7 +88,7 @@ Always exploring new technologies and sharing what I learn along the way.
 
 - Figma to UI
 - PSD to UI
-- Database System
+- Database Design (ERD)
 - Object Oriented Programming
 - Java Swing
 - Operating Systems (Ubuntu, Windows)
@@ -132,11 +133,11 @@ Always exploring new technologies and sharing what I learn along the way.
 1. B.Sc. in Software Engineering (2020-2024)  
    Daffodil International University  
    Dhanmondi, Dhaka.
-2. H.S.C  
-   Residential Laboratory College (2017-2019)
+2. H.S.C (2017-2019)
+   Residential Laboratory College
    Khilkhet, Dhaka.
-3. S.S.C  
-    K.M Latif Institution (2016-2017)  
+3. S.S.C (2016-2017)
+   K.M Latif Institution
    Mathbaria, Pirojpur.
 
 <!-- education section ends here  -->
@@ -162,7 +163,7 @@ Always exploring new technologies and sharing what I learn along the way.
 
 <!-- my sports and game section starts here  -->
 
-### 🎯 &nbsp; Sports / Game / Activities / Hobby:
+### 🎯 &nbsp; Sports / Activities / Hobby:
 
 - 🏏 Cricket, ♟️ Chess, 🎮 Gaming
 - 🌐 API Designing, 🎥 Watching Movies
@@ -177,7 +178,7 @@ Always exploring new technologies and sharing what I learn along the way.
 <img src="./images/nasa-space-app-2023.webp" width="300" />
 NASA Space App Challenge 2023 Champion <br />
 Project: Titan Settlers <br />
-Region: Barisal, Team: The Titans
+Region: Barishal, Team: The Titans
 
 #### Profile Visits
 
