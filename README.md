@@ -137,14 +137,14 @@ Always exploring new technologies and sharing what I learn along the way.
 
 ### 👨🏻‍🎓 &nbsp; Education
 
-1. B.Sc. in Software Engineering (2020-2024)  
+1. B.Sc. in Software Engineering (2020-2024) <br />
    Daffodil International University  
    Dhanmondi, Dhaka.
-2. H.S.C (2017-2019)
-   Residential Laboratory College
+2. H.S.C (2017-2019)<br />
+   Residential Laboratory College<br />
    Khilkhet, Dhaka.
-3. S.S.C (2016-2017)
-   K.M Latif Institution
+3. S.S.C (2016-2017)<br />
+   K.M Latif Institution<br />
    Mathbaria, Pirojpur.
 
 <!-- education section ends here  -->
@@ -175,9 +175,9 @@ Always exploring new technologies and sharing what I learn along the way.
 - 🏏 Cricket, ♟️ Chess, 🎮 Gaming
 - 🌐 API Designing, 🎥 Watching Movies
 - 🏊‍♂️ Swimming, 🚶‍♂️ Walking
-  <!-- my sports and games section ends here  -->
-  <!-- Honors & awards section starts here  -->
-  <br/>
+    <!-- my sports and games section ends here  -->
+    <!-- Honors & awards section starts here  -->
+    <br/>
 
 ### 🏆 Honors & Awards :
 
