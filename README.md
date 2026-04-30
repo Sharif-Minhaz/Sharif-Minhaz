@@ -6,7 +6,7 @@
 
 A skilled web developer & passionate learner.
 
-🏠 &nbsp; Living: Mathbaria, Pirojpur
+🏠 &nbsp; Living: Mathbaria, Pirojpur <br/>
 💖 &emsp;I enjoy programming and sharing knowledge <br/>
 💻 &emsp;Most used line of code `console.log("Hello World")` <br/>
 🤔 &emsp;I’m looking for people who can enlighten me with the amazing programming knowledge.<br/>
@@ -20,17 +20,20 @@ A skilled web developer & passionate learner.
 <!-- Contact me section starts here  -->
 
 <div style="width: 100%; display: flex; gap: 15px; flex-wrap: wrap; background: red">
-   <a href="https://dev-sharif-md-minhaz.netlify.app">
+   <a href="https://dev-sharif-md-minhaz.netlify.app" style="text-decoration: none">
       <img alt="website" hspace="5" title="website" width="45" src="./images/google-round.svg" />
    </a>
-   <a href="https://web.facebook.com/sharif.mdminhaz">
+   <a href="https://web.facebook.com/sharif.mdminhaz" style="text-decoration: none">
       <img alt="facebook" hspace="5" title="facebook" width="45" src="./images/facebook.png" />
    </a>
    <a href="https://www.linkedin.com/in/minhaz-rabbi-614724205" style="text-decoration: none">
       <img alt="linkedin" hspace="5" title="linkedin" width="45" src="./images/linkedin.svg" />
    </a>
-   <a href="https://www.instagram.com/sharifminhaz540">
+   <a href="https://www.instagram.com/sharifminhaz540" style="text-decoration: none">
       <img alt="linkedin" hspace="5" title="instagram" width="45" src="./images/instagram-round-color.svg" />
+   </a>
+   <a href="https://x.com/rabbi_minhaz" style="text-decoration: none">
+      <img alt="x" hspace="5" title="x" width="45" src="./images/x.webp" />
    </a>
 </div>
 <br />
@@ -56,7 +59,7 @@ Always exploring new technologies and sharing what I learn along the way.
 
 #### Key Skills in Web Development:
 
-<div><img alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" /><img alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" /><img alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap-round.png"  /><img alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" /><img alt="tailwindcss" title="tailwindcss" width="45" hspace="5" src="./images/tailwind.webp" /><img alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" /><img alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" /><img alt="react" title="react" width="45" hspace="5" src="./images/react.svg" /><img alt="node" title="node" width="45" hspace="5" src="./images/node.svg" /><img alt="express" title="express" width="45" hspace="5" src="./images/express.webp" /><img alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" /><img alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" /><img alt="git" title="git" width="45" hspace="5" src="./images/git.png" /><img alt="github" title="github" width="45" hspace="5" src="./images/github.svg" /><img alt="sql" title="sql" width="45" hspace="5" src="./images/sql.webp" /><img alt="electronjs" title="sql" width="45" hspace="5" src="./images/electron.webp" /><img alt="hono" title="hono" width="45" hspace="5" src="./images/hono.webp" /><img alt="awa" title="aws" width="45" hspace="5" src="./images/aws.webp" /></div>
+<div><img alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" /><img alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" /><img alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap-round.png"  /><img alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" /><img alt="tailwindcss" title="tailwindcss" width="45" hspace="5" src="./images/tailwind.webp" /><img alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" /><img alt="react" title="react" width="45" hspace="5" src="./images/react.svg" /><img alt="node" title="node" width="45" hspace="5" src="./images/node.svg" /><img alt="express" title="express" width="45" hspace="5" src="./images/express.webp" /><img alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" /><img alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" /><img alt="sql" title="sql" width="45" hspace="5" src="./images/sql.webp" /><img alt="electronjs" title="sql" width="45" hspace="5" src="./images/electron.webp" /><img alt="hono" title="hono" width="45" hspace="5" src="./images/hono.webp" /><img alt="awa" title="aws" width="45" hspace="5" src="./images/aws.webp" /><img alt="nestjs" title="nestjs" width="45" hspace="5" src="./images/nestjs.webp" /></div>
 <br />
 <br />
 
