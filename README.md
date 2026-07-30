@@ -9,7 +9,7 @@ A skilled web developer & passionate learner.
 🏠&nbsp;Living: Mathbaria, Pirojpur <br/>
 💖&nbsp;I enjoy programming and sharing knowledge <br/>
 💻&nbsp;Most used line of code `console.log("Hello World")` <br/>
-🤔&nbsp;I’m looking for people who can enlighten me with the amazing programming knowledge.<br/>
+🤔&nbsp;I’m looking for people who can enlighten me with amazing programming knowledge.<br/>
 📧&nbsp;How to reach me: smmr.career@gmail.com.<br/>
 🤩&nbsp;Favorite Stack: MERN (MongoDB, Express, React, Node). <br/>
 🌐&nbsp;Favorite Cloud Platform: AWS. <br/>
